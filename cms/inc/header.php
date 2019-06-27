@@ -46,13 +46,13 @@
           <a class="nav-link" href="index.php">Home</a>
         </li>
 		<li class="nav-item active">
-          <a class="nav-link" href="index.php">Fotos</a>
+          <a class="nav-link" href="fotos.php">Fotos</a>
         </li>
 		<li class="nav-item active">
-          <a class="nav-link" href="index.php">Contatos</a>
+          <a class="nav-link" href="contatos.php">Contatos</a>
         </li>
 		<li class="nav-item active">
-          <a class="nav-link" href="index.php">Sobre</a>
+          <a class="nav-link" href="detalhes.php">Sobre</a>
         </li>
 		
 		
