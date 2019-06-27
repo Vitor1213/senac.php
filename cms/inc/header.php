@@ -49,12 +49,12 @@
           <a class="nav-link" href="fotos.php">Fotos</a>
         </li>
 		<li class="nav-item active">
-          <a class="nav-link" href="contatos.php">Contatos</a>
+          <a class="nav-link" href="detalhes.php">Detalhes</a>
         </li>
 		<li class="nav-item active">
-          <a class="nav-link" href="detalhes.php">Sobre</a>
+          <a class="nav-link" href="contatos.php">Contatos</a>
         </li>
-		
+				
 		
       </ul>
       <form class="form-inline mt-2 mt-md-0">
